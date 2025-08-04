@@ -43,7 +43,7 @@ export default function Home() {
           <div className="max-w-md mx-auto text-xl text-gray-700 leading-relaxed p-10">
             <p>
               لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ. تولید
-              سادگی نامفهوم و ساده برای استفاده در طراحی سایت. test
+              سادگی نامفهوم و ساده برای استفاده در طراحی سایت.
             </p>
           </div>
         </div>
